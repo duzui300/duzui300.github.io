@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://duzui300.github.io/ja/</loc>
+    <lastmod>2025-12-23T10:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,6 +18,24 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://duzui300.github.io/ja/"
+                />
+  </url><url>
+    <loc>https://duzui300.github.io/ja/posts/</loc>
+    <lastmod>2025-12-23T10:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duzui300.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://duzui300.github.io/zh-hans/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://duzui300.github.io/ja/posts/"
                 />
   </url><url>
     <loc>https://duzui300.github.io/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/</loc>
