@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/fr/frcategories/</loc>
+    <loc>https://duzui300.github.io/fr/frcategories/</loc>
   </url><url>
-    <loc>https://example.org/fr/frseries/</loc>
+    <loc>https://duzui300.github.io/fr/frseries/</loc>
   </url><url>
-    <loc>https://example.org/fr/frtags/</loc>
+    <loc>https://duzui300.github.io/fr/frtags/</loc>
   </url><url>
-    <loc>https://example.org/fr/</loc>
+    <loc>https://duzui300.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://duzui300.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.org/fa/"
+                href="https://duzui300.github.io/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/"
+                href="https://duzui300.github.io/fr/"
                 />
   </url>
 </urlset>
