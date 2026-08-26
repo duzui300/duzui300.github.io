@@ -41,10 +41,44 @@
                 href="https://duzui300.github.io/ja/posts/"
                 />
   </url><url>
+    <loc>https://duzui300.github.io/ja/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duzui300.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://duzui300.github.io/zh-hans/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://duzui300.github.io/ja/archives/"
+                />
+  </url><url>
     <loc>https://duzui300.github.io/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA/</loc>
   </url><url>
     <loc>https://duzui300.github.io/ja/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</loc>
   </url><url>
     <loc>https://duzui300.github.io/ja/%E3%82%BF%E3%82%B0/</loc>
+  </url><url>
+    <loc>https://duzui300.github.io/ja/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duzui300.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://duzui300.github.io/zh-hans/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://duzui300.github.io/ja/search/"
+                />
   </url>
 </urlset>

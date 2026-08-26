@@ -58,6 +58,40 @@
   </url><url>
     <loc>https://duzui300.github.io/zh-hans/%E5%88%86%E7%B1%BB/</loc>
   </url><url>
+    <loc>https://duzui300.github.io/zh-hans/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duzui300.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://duzui300.github.io/ja/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://duzui300.github.io/zh-hans/archives/"
+                />
+  </url><url>
+    <loc>https://duzui300.github.io/zh-hans/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duzui300.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://duzui300.github.io/ja/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://duzui300.github.io/zh-hans/search/"
+                />
+  </url><url>
     <loc>https://duzui300.github.io/zh-hans/%E7%B3%BB%E5%88%97/</loc>
   </url>
 </urlset>

@@ -57,7 +57,41 @@
                 href="https://duzui300.github.io/posts/test/"
                 />
   </url><url>
+    <loc>https://duzui300.github.io/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://duzui300.github.io/ja/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://duzui300.github.io/zh-hans/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duzui300.github.io/archives/"
+                />
+  </url><url>
     <loc>https://duzui300.github.io/categories/</loc>
+  </url><url>
+    <loc>https://duzui300.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://duzui300.github.io/ja/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://duzui300.github.io/zh-hans/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duzui300.github.io/search/"
+                />
   </url><url>
     <loc>https://duzui300.github.io/series/</loc>
   </url><url>
